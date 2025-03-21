@@ -31,4 +31,4 @@ Projektas yra platinamas pagal **MIT** licenciją.
 
 ---
 
-**Autorius:** [Tavo vardas ar kontaktai]  
+**Autorius:** discord - **Bezdzionelol**
